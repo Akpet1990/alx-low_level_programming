@@ -2,16 +2,16 @@
 	/**
 	*main - Entry point
 	*
-	*Description: "Programming is like building a multilingual puzzle"
+	*Description: 'This programme will print an information'
 	*
-	*Return: Always 0 (Success)
+	*return: Always 0 (Success)
 	*/
 
 int main(void)
 {
 	char Peter[] = "\"Programming is like building a multilingual puzzle";
 
-	puts(Peter);
+	puts(Peter); /*writing the code to out*/
 
 	return (0);
 }
