@@ -1,17 +1,12 @@
 #include <stdio.h>
-	/**
-	*main - Entry point
-	*
-	*Description: 'This programme will print an information'
-	*
-	*return: Always 0 (Success)
-	*/
+
+/**
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
+ */
 
 int main(void)
 {
-	char Peter[] = "\"Programming is like building a multilingual puzzle";
-
-	puts(Peter); /*writing the code to out*/
-
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
