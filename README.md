@@ -1,1 +1,1 @@
-Beginning of C programming
+Started C programming.
